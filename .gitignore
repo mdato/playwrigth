@@ -1,0 +1,11 @@
+node_modules/
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
+foto*
+*json
+4-cronista.js
+2-clima.js
+play-.txt
+/tests/
